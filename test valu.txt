@@ -1,0 +1,46 @@
+for problem 2:
+“John Doe”,“ohn”
+
+“JavaScript”,“Code”
+
+“Peter Parker”,“Pen”
+
+“Peter Parker”,”pet”
+
+
+
+
+
+for problem 3:
+
+[2,3]
+
+[4,-2]
+
+[4,4]
+
+
+
+
+
+
+problem4:
+
+{street:10,house:“15A”,society:“Earth Perfect”}
+
+{street:10,society:“Earth Perfect”}
+
+{street:10}
+
+
+
+
+
+
+
+
+problem5:
+
+[1,2,5],10
+
+[1,5,5],10
